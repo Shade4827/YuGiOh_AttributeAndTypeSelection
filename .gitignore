@@ -1,0 +1,13 @@
+*.filters
+*.user
+*.txt
+*.vcxproj
+*.sln
+
+.vs/
+AttributeAndTypeSelection/.vs/*
+AttributeAndTypeSelection/App/*
+AttributeAndTypeSelection/Intermediate/*
+AttributeAndTypeSelection/Debug/*
+AttributeAndTypeSelection/move/Debug/*
+AttributeAndTypeSelection/AttributeAndTypeSelection/App/*
